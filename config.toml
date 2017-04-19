@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "qweddsf"
+baseURL = "https:\/\/etfdg.ewreds.sdfr"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758823"
+subfolder = ""
