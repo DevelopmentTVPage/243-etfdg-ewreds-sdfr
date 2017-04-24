@@ -2,6 +2,6 @@
     "type": "solo",
     "title": "dsdf",
     "name": "dsdf",
-    "channelId": "",
+    "channelId": "85601876",
     "layout": "bootstrap"
 }
